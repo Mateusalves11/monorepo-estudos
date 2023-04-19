@@ -1,0 +1,19 @@
+{
+    "name": "@gw/eslint-commons",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "files": [
+        "base.js"
+    ],
+    "scripts": {
+        "lint": "echo 'Not necessary'"
+    },
+    "dependencies": {
+        "eslint-plugin-jest": "26.1.5",
+        "eslint-config-next": "13.3.0",
+        "eslint-config-prettier": "8.8.0",
+        "eslint-plugin-prettier": "4.2.1",
+        "eslint-plugin-react": "7.32.2"
+    }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "@gw/utils",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint './**/*.{ts,tsx}'"
+  },
+  "devDependencies": {
+    "@gw/test-commons": "*",
+    "@gw/tsconfig-commons": "*",
+    "@gw/eslint-commons": "*"
+  }
+}
